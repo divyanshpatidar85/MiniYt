@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193776849425",
+    "project_id": "internship-project-cb2a8",
+    "storage_bucket": "internship-project-cb2a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776849425:android:fa3ee168653eb4558a57b0",
+        "android_client_info": {
+          "package_name": "com.example.insterprogram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJ0YuO--YvkrQU3LKiVjYQaDuyC5TVsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
